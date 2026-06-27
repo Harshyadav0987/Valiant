@@ -1,6 +1,6 @@
-🛒 Valiant — Production-Style E-Commerce Platform
+Valiant — Clothing store platform
 
-A full-stack e-commerce application built with a production mindset, focusing on scalability, performance, and real-world workflows such as authentication, payments, caching, and admin operations.
+A full-stack application built with a production mindset, focusing on scalability, performance, and real-world workflows such as authentication, payments, caching, and admin operations.
 
 This project is not a toy CRUD app — it simulates how a real online store works end-to-end.
 
